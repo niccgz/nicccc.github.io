@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://niccgz.github.io/posts/first_post/</loc>
+    <lastmod>2019-01-02T17:11:04+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://niccgz.github.io/about/</loc>
     <lastmod>2018-12-29T11:45:08+08:00</lastmod>
   </url>
@@ -14,7 +19,13 @@
   
   <url>
     <loc>https://niccgz.github.io/</loc>
-    <lastmod>2018-12-29T11:45:08+08:00</lastmod>
+    <lastmod>2019-01-02T17:11:04+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://niccgz.github.io/posts/</loc>
+    <lastmod>2019-01-02T17:11:04+08:00</lastmod>
     <priority>0</priority>
   </url>
   
