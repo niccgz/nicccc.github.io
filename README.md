@@ -1,2 +1,0 @@
-# niccgz.github.io
-
