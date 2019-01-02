@@ -770,15 +770,15 @@ a.article-title:hover,
   line-height: 36px;
   text-align: center;
 }
-#page-nav a.prev,
-#page-nav a.next {
+#page-nav a.PrevPage,
+#page-nav a.NextPage {
   margin: 0;
   width: auto;
 }
-#page-nav .prev {
+#page-nav .PrevPage {
   float: left;
 }
-#page-nav .next {
+#page-nav .NextPage {
   float: right;
 }
 #page-nav .page-number {
